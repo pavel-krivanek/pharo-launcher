@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "PavelKrivanek 7/24/2018 14:23",
+	"super" : "PhLResource",
+	"category" : "PharoLauncher-Core-Model-new",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"template",
+		"vmVersion"
+	],
+	"name" : "PhLAbstractImage",
+	"type" : "normal"
+}

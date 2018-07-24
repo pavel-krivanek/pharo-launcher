@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "PavelKrivanek 7/24/2018 14:36",
+	"super" : "PhLResource",
+	"category" : "PharoLauncher-Core-Model-new",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"resources"
+	],
+	"name" : "PhLProvider",
+	"type" : "normal"
+}

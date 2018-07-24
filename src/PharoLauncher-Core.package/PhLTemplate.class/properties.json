@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhLResource",
+	"category" : "PharoLauncher-Core-Model-new",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhLTemplate",
+	"type" : "normal"
+}

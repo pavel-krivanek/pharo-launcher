@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PhLModelTest",
+	"category" : "PharoLauncher-Tests-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"provider"
+	],
+	"name" : "PhLProviderTest",
+	"type" : "normal"
+}

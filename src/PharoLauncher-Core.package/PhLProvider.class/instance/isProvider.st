@@ -1,0 +1,4 @@
+isProvider
+isProvider
+
+	^ true
