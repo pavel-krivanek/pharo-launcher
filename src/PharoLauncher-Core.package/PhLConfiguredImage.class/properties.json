@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "PhLTemplate",
+	"super" : "PhLAbstractImage",
 	"category" : "PharoLauncher-Core-Model-new",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "PhLRegisteredTemplate",
+	"name" : "PhLConfiguredImage",
 	"type" : "normal"
 }

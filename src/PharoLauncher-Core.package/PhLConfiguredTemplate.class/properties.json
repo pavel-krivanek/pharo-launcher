@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "PhLLocalTemplate2",
+	"name" : "PhLConfiguredTemplate",
 	"type" : "normal"
 }

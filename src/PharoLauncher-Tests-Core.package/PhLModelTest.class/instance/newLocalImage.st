@@ -1,4 +1,4 @@
 instance creation
 newLocalImage
 
-	^ PhLLocalImage new
+	^ PhLPhysicalImage new

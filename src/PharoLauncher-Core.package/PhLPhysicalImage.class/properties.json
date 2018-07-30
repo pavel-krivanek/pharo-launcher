@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "PhLLocalImage",
+	"name" : "PhLPhysicalImage",
 	"type" : "normal"
 }
